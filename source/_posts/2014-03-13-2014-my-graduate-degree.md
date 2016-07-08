@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "My Graduate Degree"
+categories: ["poetry & essays"]
+tags: [creativity, alternative education, education, DC, inequality]
+share: discuss
+---
+
+Ten months ago I was reaching the end of my second year as an Economics Research Assistant and was facing the question of whether I should go to graduate school. I looked at a few programs, but I couldn't bring myself to write the college essays. I didn't want go selling myself again so that a bunch of folks can decide to give me the privilege to pay them.
+
+<span style='display: none;'><!--more--></span>
+
+It's safe to say my undergraduate experience left a bad taste in my mouth. I went to a private top-20 university and received good grades, but beyond having professors write me recommendations, I was provided no support in getting an internship or a job. Still, I was one of the lucky ones. I got a job in a recession(fittingly, in economic research), which my university could happily advertise as justification for their expensive service.
+
+Their general lack of support in my job search could all be overlooked if the university experience made me significantly more prepared to succeed at work. Though a background in Economics was necessary for context, on a day-to-day basis I found that work mainly entailed writing computer programs, a skill I picked up on the job. It reminded me of a concept in economics called [signaling](http://en.wikipedia.org/wiki/Signalling_(economics)#The_result). The theory argues that (formal) education signals to an employer that an individual has a higher ability and therefore individuals with higher abilities will likely pursue education. Which leads to the question: did Emory make me smart or because I was smart or capable (whatever that means) did I go to Emory?
+
+It's very difficult to parse out how much schooling has shaped my mind from how much it has evaluated it for future employers. I did perform much better in university then I did in public school, which on the surface may seem like evidence for the former, but I believe I did better because I got to spend more time away from the classroom than ever before. Public school was a cross between a prison, a day care, and an actual place of learning. All the busy work gave me a ton of opportunities to prove that I was lazy, but none to take the time to explore the things I was interested in because I was too slow. 
+
+I used the free time in college to pursue a life changing practice: Spoken Word poetry. Though I never considered it as work, the amount of effort I put into crafting pieces was unmatched by my work as an employee or a student. I didn't just learn the craft. I learned about myself, my ego, love, true humility, privilege, histories, the way I think, my weaknesses, how I learn best and coming to terms with who I am. These were the most important lessons I learned during my college years. None of which I learned in a lecture. Of course none of this mattered in the "real world", or so I thought. 
+
+I moved to DC in 2011, and led a dual life of working a government job by day, and performing at open mics by night- a lifestyle that in someways reflected the dual identity of the city. 
+
+On one side there was the House of Cards DC of the Federal government, contractors and NGO headquarters. On the other side was the local population's DC. The people who worked for the major internationally recognized institution that dotted the city had exposure and wealth that felt like a world away from the native residents. The contrast was was black and white (and Latino), literally. Of the 50 states and 1 District in the United States, the District of Columbia ranks as the most unequal by the [Gini Coefficient] (http://en.wikipedia.org/wiki/List_of_U.S._states_by_Gini_coefficient#List_of_U.S._states_by_Gini_coefficient_of_income_inequality).
+
+The line between those two DC's cut through my office. On one side there were the administrators and routine workers, who were predominately black or latino, and on the other there were the researchers, policy makers, and their assistants like me, who were predominantly white.
+
+The line cut through the city steadily marching east as, like in many US cities, young professionals and interns spearheaded the gentrification. I lived on that border, shared my heart at open mics on that border. I was a European in Moccasins, an invader trying to pass off as a native. Though the poetry community was incredibly welcoming to me, I could never shake the guilt of privilege as I heard the troubled stories of growing up in this city from it's youth. How little access they had to the abundant opportunity this city offered to some. I thought of what kept many of the locals from having my job in their city. I thought about how I was using my university degree as a pass into a career path though it didn't impart me with any knowledge I couldn't have gained from Wikipedia, Coursera, and on the job training. It became apparent that the issue with education is not just about me being ripped off, but the perpetuation of a growing inequality in this country. 
+
+It is not just the financial barrier of entry into university that has kept the natives of DC at bay, but also the exposure, examples, direction, and support that living in poverty rarely allows. If my parents gave up on me when I was nearly failing middle school I wouldn't have been qualified to get into the universities that I did.
+
+Programming gave me hope. As I mentioned earlier, I picked up coding on the job (though not very well). I noticed that when I coded I felt like I was playing with legos or writing poetry. In programming I saw a tangible skill that allowed me to be creative, to build things. At this time I started my first tumblr blog and played with the CSS, HTML and (a little) JavaScript to make it look fancy, which I picked up from [Codeacademy](http://www.codecademy.com/) and a few other resources. I was learning a substantial skill that was in high demand for absolutely free. In this process I saw an opportunity to forge a new, alternate path to education.
+
+When I entered college for my undergrad I felt like I had no discernible talent, no idea what I wanted to do, and at the same time didn't want to be left behind. College has become the default path, which is ridiculous. In no other circumstance would someone buy something that could cost up to $50,000 a year without getting a sample of the service. It's like buying a car without test-driving it, or even knowing what you're going to use it for.
+
+Ten months ago, I faced the same prospect of going back to college, but this time I had the experience of spoken word, "the real world", what college is, and coding. I decided I was going to make my own graduate program.
+
+It started with [Dev Bootcamp](http://devbootcamp.com/) (If you're interested in a review check it out [here](http://poetprogrammer.tumblr.com/post/63547885951/dev-bootcamp-reflection)). Now ten months after leaving my job, I have started a new one as a developer at ThoughtWorks, an organization that seeks to revolutionize IT and advocate for social and economic justice, while maintaining a sustainable business. This next phase of my graduate experience begins with a "study abroad" trip to ThoughtWorks University in Pune, India. Yes, they're PAYING me to go to the motherland to learn a practical, in demand skill! That's better than a scholarship.
+
+If I could advise my younger self, I would tell him think about what really motivates you. What do you excel in? If you're creative what are the ways creativity intersects with making a livelihood? I'm not saying don't go to college; just go when you're passion has exhausted the other resources and it seems to be the logical next step. If you do poorly in whatever educational institution you're in, understand it only proves that you are not designed to excel in that system and nothing more. Don't let it make you think you're mentally inferior. Intelligence is not something you have, it's something you find. Work hard in their system, but beware of sacrificing what makes you exceptional. As Mark Twain once said (or at least has been said to have said), 
+
+"I've never let my school interfere with my education."
+
+Take control of your education. You were always your own teacher. Knowledge can be served to you in a book, through a person in front of a classroom, on the internet, in music, in love, but it is ultimately up to you if and how you will use an experience to educate yourself. 
+
+I would like to finish by saying that this all might seem like a story of triumph, but it was not without uncertainty. I am well aware that it is because of my privilege that I could afford to do something as risky as this. I had so much support from so many loved ones all my life. However, I believe in the age of Wikipedia, and Kahn Academy there is no reason our society should deny others who do not have my privileges the opportunity to learn and be creative because they didn't have the exposure or foresight to plan a "successful" career.
